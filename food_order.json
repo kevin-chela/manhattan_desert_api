@@ -1,5 +1,4 @@
-{ [
-
+[
   {
     id: 1,
     title: 'butter pancakes',
@@ -17,7 +16,5 @@
     img: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvK9bXoJBe9-i3Dk1Zz6fBt4E1rS18skDTZ9TD5FCWINkdN--K',
     desc: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. `,
     amount: 1,
-  },
-    
-    
-] }
+  },   
+] 
