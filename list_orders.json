@@ -7,7 +7,7 @@
     "img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8BvW51EKAuC_ouss-jfT28RWL3sA7DrC8VBHrkq_NGrVdLF5",
     "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmU1CTzeGkVPVXKRNEMg_UJo9-5NEDTPmYw&usqp=CAU",
     "total_price": "35.99",
-    "review": "80",
+    "review": "80"
 },
 {
     "id": "2",
@@ -20,7 +20,7 @@
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujT5Yz6VqWzAAKK90iGE9r-pl9G11S0-e66MM3DeecjO9wfdhWb6qposBk73DKiCNqQI&usqp=CAU",
     "img1": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSblUWlLQvcwaUFT6wfCPojPBmmRnBVNc7-zYzJmWqcBZRHtUtj"
     "total_price": "105.99",
-    "review": "90",
+    "review": "90"
 },
 {
     "id": "3",
@@ -29,7 +29,7 @@
     "img1": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8Ylxnqy54995RuQAltZ4vYxwO0lOo-S2jFPdKqGpqKgeiDGCh",
     "img2": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7rWY-_ga-rsaGPVKP2fSvNHhe_ecGq1X4FDqhURvsxzcWJ-E-",
     "total_price": "25.99",
-    "review": "60",
+    "review": "60"
 },
 {
     "id": "4",
@@ -43,7 +43,7 @@
     "img6": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujT5Yz6VqWzAAKK90iGE9r-pl9G11S0-e66MM3DeecjO9wfdhWb6qposBk73DKiCNqQI&usqp=CAU",
     "img7": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSblUWlLQvcwaUFT6wfCPojPBmmRnBVNc7-zYzJmWqcBZRHtUtj",
     "total_price": "195.99",
-    "review": "98",
+    "review": "98"
 },
 {
     "id": "5",
@@ -51,6 +51,6 @@
     "client_Email": "sarah@gmail.com",
     "img1": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSblUWlLQvcwaUFT6wfCPojPBmmRnBVNc7-zYzJmWqcBZRHtUtj",
     "total_price": "10.99",
-    "review": "93",
-},
+    "review": "93"
+}
 ]
