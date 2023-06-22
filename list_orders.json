@@ -8,8 +8,7 @@
     "img4": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNmU1CTzeGkVPVXKRNEMg_UJo9-5NEDTPmYw&usqp=CAU",
     "total_price": "35.99",
     "review": "80"
-},
-{
+},{
     "id": "2",
     "client_Profile": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRshN1Hprkl5n7SEtOMheWJtBCCK6riCm8iw_ziT7ZyDg81w-aF",
     "client_Email": "chirchir@gmail.com",
@@ -21,8 +20,7 @@
     "img1": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSblUWlLQvcwaUFT6wfCPojPBmmRnBVNc7-zYzJmWqcBZRHtUtj"
     "total_price": "105.99",
     "review": "90"
-},
-{
+},{
     "id": "3",
     "client_Profile": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVKRJ7YSdLF6KTLnqrcjgmVqd44XAq4_lIQ3EKKEI96cbXS5qR",
     "client_Email": "mike@gmail.com",
@@ -30,8 +28,7 @@
     "img2": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7rWY-_ga-rsaGPVKP2fSvNHhe_ecGq1X4FDqhURvsxzcWJ-E-",
     "total_price": "25.99",
     "review": "60"
-},
-{
+},{
     "id": "4",
     "client_Profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLx6KPOFdCAwAQdddQ9oWKJ-k4EIMSPBV-Ow&usqp=CAU"
     "client_Email": "fatso@gmail.com",
@@ -44,13 +41,11 @@
     "img7": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSblUWlLQvcwaUFT6wfCPojPBmmRnBVNc7-zYzJmWqcBZRHtUtj",
     "total_price": "195.99",
     "review": "98"
-},
-{
+},{
     "id": "5",
     "client_Profile": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhGj5G4OQsWHjgrZT4SZBzrxkyzh9o12Xuvur_wYCtvuTCQ8G_",
     "client_Email": "sarah@gmail.com",
     "img1": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSblUWlLQvcwaUFT6wfCPojPBmmRnBVNc7-zYzJmWqcBZRHtUtj",
     "total_price": "10.99",
     "review": "93"
-}
-]
+}]
